@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Sathmika
+#### Undergraduate in Software Engineering | Developer and Designer
 
-<!--
-**Sathmikasenadheera01/Sathmikasenadheera01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am highly skilled with HTML, CSS, and JavaScript as I have more than 1 year of experience with them. I am studying Software Engineering at Informatics Institute of Technology- Sri Lanka affiliated with University of Westminster UK. Still, I am always eager to learn anew and make my skill sharper whenever I get any chance.
 
-Here are some ideas to get you started:
+## Skills
+* ✔ HTML/ CSS/ JavaScript
+* ✔ PHP
+* ✔ MySQL
+* ✔ Java
+* ✔ Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Software Engineering   
