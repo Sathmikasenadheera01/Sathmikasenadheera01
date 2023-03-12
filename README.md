@@ -4,8 +4,9 @@
 I am highly skilled with HTML, CSS, and JavaScript as I have more than 1 year of experience with them. I am studying Software Engineering at Informatics Institute of Technology- Sri Lanka affiliated with University of Westminster UK. Still, I am always eager to learn anew and make my skill sharper whenever I get any chance.
 
 ## Skills
-* ✔ HTML5 / CSS / JavaScript
+* ✔ HTML5 / CSS3 / JavaScript
 * ✔ React JS
+* ✔ Node JS
 * ✔ PHP
 * ✔ MySQL /MongoDB
 * ✔ Java
