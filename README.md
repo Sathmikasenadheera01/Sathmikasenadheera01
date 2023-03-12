@@ -11,5 +11,6 @@ I am highly skilled with HTML, CSS, and JavaScript as I have more than 1 year of
 * ✔ MySQL /MongoDB
 * ✔ Java
 * ✔ Python
+* ✔ Figma
 
 🌱 I’m currently learning Software Engineering   
