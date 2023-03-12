@@ -7,7 +7,7 @@ I am highly skilled with HTML, CSS, and JavaScript as I have more than 1 year of
 * ✔ HTML5 / CSS / JavaScript
 * ✔ React JS
 * ✔ PHP
-* ✔ MySQL
+* ✔ MySQL /MongoDB
 * ✔ Java
 * ✔ Python
 
